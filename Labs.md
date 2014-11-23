@@ -128,7 +128,7 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 1. Mackiewicz, Marcin. [Zadania 1, 2, 3](https://bitbucket.org/mmackiewicz2/ruby/branch/Testowanie-Ruby)
 1. Makowski, Łukasz
 1. Matuszewski, Jan
-1. Mielnikowski, Łukasz
+1. Mielnikowski, Łukasz Ni ma i nie bindzie
 1. Mroczek, Przemysław. [Zadania 1](https://github.com/pmroczek/testowanie_repo/blob/master/Zadanie1/README.md), [Zadanie 2](https://github.com/pmroczek/testowanie_repo/tree/master/Zadanie2)
 1. Niemczyk, Radosław
 1. Nowosada, Wojciech
