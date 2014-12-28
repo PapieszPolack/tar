@@ -5,6 +5,7 @@
 ----
 
 1. Powtórka z języka Ruby.
+   - [kim jest Ruby developer](http://x3.cdn03.imgwykop.pl/c3201142/comment_eC1esyYrUI47AKr65g1hHKNIUFTYkl7N.jpg)
    - [Learn X in Y minutes][5], where X=Ruby.
    - [Learn X in Ruby], where X=Array,Hash (laboratorium, git)
 2. Ogólnie o testowaniu, dostępne narzędzia i technologie:<br>
